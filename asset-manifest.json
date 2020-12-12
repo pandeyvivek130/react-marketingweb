@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-marketingweb/static/css/main.da1029ad.chunk.css",
-    "main.js": "/react-marketingweb/static/js/main.72550b25.chunk.js",
-    "main.js.map": "/react-marketingweb/static/js/main.72550b25.chunk.js.map",
+    "main.js": "/react-marketingweb/static/js/main.9d3010e2.chunk.js",
+    "main.js.map": "/react-marketingweb/static/js/main.9d3010e2.chunk.js.map",
     "runtime-main.js": "/react-marketingweb/static/js/runtime-main.16b4411f.js",
     "runtime-main.js.map": "/react-marketingweb/static/js/runtime-main.16b4411f.js.map",
     "static/css/2.155f6fba.chunk.css": "/react-marketingweb/static/css/2.155f6fba.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.155f6fba.chunk.css",
     "static/js/2.44a68930.chunk.js",
     "static/css/main.da1029ad.chunk.css",
-    "static/js/main.72550b25.chunk.js"
+    "static/js/main.9d3010e2.chunk.js"
   ]
 }
