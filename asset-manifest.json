@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-marketingweb/static/css/main.da1029ad.chunk.css",
+    "main.js": "/react-marketingweb/static/js/main.72550b25.chunk.js",
+    "main.js.map": "/react-marketingweb/static/js/main.72550b25.chunk.js.map",
+    "runtime-main.js": "/react-marketingweb/static/js/runtime-main.16b4411f.js",
+    "runtime-main.js.map": "/react-marketingweb/static/js/runtime-main.16b4411f.js.map",
+    "static/css/2.155f6fba.chunk.css": "/react-marketingweb/static/css/2.155f6fba.chunk.css",
+    "static/js/2.44a68930.chunk.js": "/react-marketingweb/static/js/2.44a68930.chunk.js",
+    "static/js/2.44a68930.chunk.js.map": "/react-marketingweb/static/js/2.44a68930.chunk.js.map",
+    "static/js/3.24ab6fca.chunk.js": "/react-marketingweb/static/js/3.24ab6fca.chunk.js",
+    "static/js/3.24ab6fca.chunk.js.map": "/react-marketingweb/static/js/3.24ab6fca.chunk.js.map",
+    "index.html": "/react-marketingweb/index.html",
+    "static/css/2.155f6fba.chunk.css.map": "/react-marketingweb/static/css/2.155f6fba.chunk.css.map",
+    "static/css/main.da1029ad.chunk.css.map": "/react-marketingweb/static/css/main.da1029ad.chunk.css.map",
+    "static/js/2.44a68930.chunk.js.LICENSE.txt": "/react-marketingweb/static/js/2.44a68930.chunk.js.LICENSE.txt",
+    "static/media/android.ee1d9508.jpeg": "/react-marketingweb/static/media/android.ee1d9508.jpeg",
+    "static/media/app.8714f365.jpeg": "/react-marketingweb/static/media/app.8714f365.jpeg",
+    "static/media/digital.dad8270c.jpeg": "/react-marketingweb/static/media/digital.dad8270c.jpeg",
+    "static/media/hero-img.53f1b546.png": "/react-marketingweb/static/media/hero-img.53f1b546.png",
+    "static/media/img2.d12e2a27.svg": "/react-marketingweb/static/media/img2.d12e2a27.svg",
+    "static/media/marketing.f629aa39.jpg": "/react-marketingweb/static/media/marketing.f629aa39.jpg",
+    "static/media/s1.8e51e67d.jpg": "/react-marketingweb/static/media/s1.8e51e67d.jpg",
+    "static/media/software.1cb4dc77.jpeg": "/react-marketingweb/static/media/software.1cb4dc77.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b4411f.js",
+    "static/css/2.155f6fba.chunk.css",
+    "static/js/2.44a68930.chunk.js",
+    "static/css/main.da1029ad.chunk.css",
+    "static/js/main.72550b25.chunk.js"
+  ]
+}
